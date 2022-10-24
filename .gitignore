@@ -8,3 +8,5 @@ chapter*/go/*.o
 chapter*/go/*.c
 *.arrow
 .ipynb_checkpoints
+
+arrow_playground
